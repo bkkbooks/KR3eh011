@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR3eh011/jc/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舌卷經云邪客手少陽之絡令人喉痹舌卷口乾心煩臂外廉痛手不及頭刺手中指次指爪甲上去端如韭葉各一痏又云手少陽之筋其病支痛轉筋舌卷治在燔針劫刺以知為數以痛為輸又云厥陰絡者甚則舌卷卵上縮又云肝者筋之合也肝脈弗榮則筋急筋急則引舌與卵故唇青舌卷卵縮則筋先死庚篤辛死
+  hash: sha256:5d46bd5511570dc27ea4327f76b36166a4ab6a2b71514daf43e188851b30310f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eh011_jc_NaN-d11.d2.d7.d8.h1s1}
+  - {type: 'tls:div-end', offset: 125, content: '', id: KR3eh011_jc_000-d11.d2.d7d8}
+  - {type: 'tls:div-start', offset: 125, content: '', id: KR3eh011_jc_000-d11.d2.d7d9, level: 4, head_text: 舌瘡}
+metadata:
+  title: 證治準繩·雜病
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh011.xml
+hash: sha256:c6eed38770c6733dd5b64d0033038ef3c9b9984ee685ea2be5712395d8e266db
